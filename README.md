@@ -5,27 +5,14 @@
 
 ## Features
 
-###Succeed :
-(You will find this feautures in the 'app1' application)
-
-*Deleting products<br>
-*Adding products<br>
-*Modifying products<br>
-*Displaying all products 
-
-###Not succed :
-(You will find this feautures in the 'app1' app)
-
-*Incrementation and decrementation of number of pruducts<br>
-
-
-(You will find this feautures in the 'chat' app)
-
-*Send a message between rooms <br>
-
-
-
-
+*Deleting products <br>
+*Adding products <br>
+*Modifying products <br>
+*Displaying all products  <br>
+*Incrementation and decrementation of number of pruducts <br>
+*Incrementation and decrementation of number of pruducts <br>
+*Incrementation and decrementation of number of pruducts <br>
+Send a message between rooms <br>
 
 
 ## Usage

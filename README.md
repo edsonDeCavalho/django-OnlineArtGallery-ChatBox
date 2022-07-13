@@ -1,8 +1,6 @@
-# TP Django  IIM EDSON DECARVALHO
+# Online Art Gallery and Chat Box
 
-This is the work of the Django class from 02/29/2020 to 02/01/2022 .
-
-![alt text](imgForReadme/read.PNG)
+![alt text](imgForReadme/giAll.gif)
 
 
 ## Features

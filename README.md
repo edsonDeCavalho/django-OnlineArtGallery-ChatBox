@@ -2,7 +2,7 @@
 
 This is the work of the Django class from 02/29/2020 to 02/01/2022 .
 
-![alt text](imgForReadme/detail.PNG)
+![alt text](imgForReadme/read.PNG)
 
 
 ## Features

@@ -12,7 +12,7 @@
 *Incrementation and decrementation of number of pruducts <br>
 *Incrementation and decrementation of number of pruducts <br>
 *Incrementation and decrementation of number of pruducts <br>
-Send a message between rooms <br>
+*Send a message between rooms <br>
 
 
 ## Usage
